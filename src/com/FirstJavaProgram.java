@@ -5,5 +5,7 @@ public static void main(String[] args) {
 	System.out.println("A simple java program");
 
 	Sysout("lll");
+
+			sysout("logout");
 }
 }
